@@ -1,0 +1,3 @@
+[submodule "thirdParty/closure"]
+	path = thirdParty/closure
+	url = https://code.google.com/p/closure-library/
